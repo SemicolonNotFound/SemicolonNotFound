@@ -1,6 +1,3 @@
-<!--
-**SemicolonNotFound/SemicolonNotFound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hello, Human (or I.A) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/>
 
 I am a graduated system analyst and currently studying front-end development searching for a collab opportunities, remote works or projects.
@@ -19,3 +16,6 @@ I am a graduated system analyst and currently studying front-end development sea
 
 ##### Let's talk! Feel free to connect with me in Linkedin by clicking the button bellow 🔽
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/llang/)
+
+<!--
+**SemicolonNotFound/SemicolonNotFound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
