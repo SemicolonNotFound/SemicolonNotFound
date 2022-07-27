@@ -2,7 +2,7 @@
 
 I am a graduated system analyst and currently studying front-end development searching for a collab opportunities, remote works or projects.
 
-- 🎬 I'm little bit away of I.T area in the last years working as audiovisual producer. (Still doing it till finish my studies).
+- 🎬 I'm little bit away of I.T area in the last years working as audiovisual producer.
 - 🧐 I’m currently recaping HTML, CSS and JS to retake my studies in React and NodeJs. (I have some knowledge in Angular too).
 - 🔍 Also i'm interested in learning Python and R in a near future. (But one step at a time, right?). 
 - 🤝 Lastly, i'm open to pair programming projects with other newbies on front-end development. (Unity is strength!)
