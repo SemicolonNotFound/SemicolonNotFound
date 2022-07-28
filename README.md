@@ -1,4 +1,4 @@
-# Hello, Human (or I.A) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/>
+# Hello, Human (or A.I) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/>
 
 I am a graduated system analyst and currently studying front-end development searching for a collab opportunities, remote works or projects.
 
