@@ -7,14 +7,6 @@ I am a graduated system analyst and currently studying front-end development sea
 - 🔍 Also i'm interested in learning Python and R in a near future. (But one step at a time, right?). 
 - 🤝 Lastly, i'm open to pair programming projects with other newbies on front-end development. (Unity is strength!)
 
-<hr><a href="https://github.com/SemicolonNotFound/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SemicolonNotFound&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-
-<a href="https://github.com/SemicolonNotFound/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SemicolonNotFound&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
-</a><hr>
-
 ##### Let's talk! Feel free to connect with me in Linkedin by clicking the button bellow 🔽
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/llang/)
 
